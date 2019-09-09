@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Happo+</string>
+
+    <string name="agree">By Sign in you are agreed to our </string>
+    <string name="terms">Terms and Conditions.</string>
+    <string name="lgin_gmail">Login with Gmail</string>
+    <string name="make_acc">Don\'t  have  an  account. Create  now</string>
+    <string name="select_profile">Select either you are a</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="reset_pass">Reset Password</string>
+    <string name="Verification_Code">Enter Verification Code</string>
+    <string name="create_acc">Create Account</string>
+    <string name="doctor">Doctor</string>
+    <string name="compunder">Compounder</string>
+    <string name="clinic_ownwer">Clinic Owner</string>
+
+</resources>
